@@ -15,6 +15,6 @@ document.getElementById('login-submit').addEventListener('click', function(){
         window.location.href = 'banking.html';
     }
     else{
-        alert('sorry, your informtion wrong');
+        alert('sorry, your informtion wrong....please type email ( baper@baank.com ) and password ( secret )...');
     }
 });
