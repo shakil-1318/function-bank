@@ -1,3 +1,3 @@
 ﻿# function-bank
-Email: baper@bank.com
+Email: baper@baank.com
 Password: secret
